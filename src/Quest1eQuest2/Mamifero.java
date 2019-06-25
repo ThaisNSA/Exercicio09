@@ -1,5 +1,5 @@
 package Quest1eQuest2;
-public class Mamifero extends Animal{
+public abstract class Mamifero extends Animal{
     
     private int patas;
     
