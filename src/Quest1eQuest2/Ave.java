@@ -1,5 +1,5 @@
 package Quest1eQuest2;
-public class Ave extends Animal {
+public abstract class Ave extends Animal {
     
     private boolean voa;
     
