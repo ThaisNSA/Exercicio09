@@ -1,6 +1,6 @@
 package Quest1eQuest2;
 
-public class Animal {
+public abstract class Animal {
     private String nome;
     
     public Animal(String n){
